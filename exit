@@ -1,0 +1,23 @@
+[33mcommit 2d1d4e481ffc0054cd245edf4ed7e001aa1f30bb[m[33m ([m[1;36mHEAD -> [m[1;32mstatic-pages[m[33m, [m[1;31morigin/static-pages[m[33m)[m
+Author: beanphoo <beanphoo@163.com>
+Date:   Tue Apr 12 23:25:18 2022 +0800
+
+    基础页面
+
+[33mcommit c0a8d1ad1a494a3510eb1edbe219791ac743f75c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: beanphoo <beanphoo@163.com>
+Date:   Tue Apr 12 22:50:23 2022 +0800
+
+    add .editorconfig
+
+[33mcommit e214482f9be726f8b7f5464f0399f80d61b2f58f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: beanphoo <beanphoo@163.com>
+Date:   Mon Apr 11 15:27:43 2022 +0000
+
+    Procfile for Heroku
+
+[33mcommit d38c991669119795b4cc892600e4ba94b59d074e[m
+Author: beanphoo <beanphoo@163.com>
+Date:   Mon Apr 11 23:19:25 2022 +0800
+
+    Initial commit
